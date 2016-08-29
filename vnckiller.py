@@ -41,3 +41,8 @@ else:
 	
 	    print("\n\n[+] VNC killed succesfully.")
             raw_input("Press a key to continue...")
+            
+    else:
+
+            print("\n\n[-] Error: Failed to kill the process...")
+            raw_input("Press a key to continue...")
