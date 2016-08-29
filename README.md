@@ -10,7 +10,7 @@ EXE file works fine in environments without the Python interpreter.
 
 ### Building
 
-To buid the executable just type in cosole as follows:
+To buid the executable just type in console as follows:
 
 ```
 pyinstaller -i <iconfile>.ico -onefile vnckiller.py
